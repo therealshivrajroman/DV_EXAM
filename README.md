@@ -1,5 +1,6 @@
 ## Food Impact Dashbpard
 # Dataset used
+<a href="https://github.com/therealshivrajroman/DV_EXAM/blob/main/food_impact_india.csv">Dataset</a>
 
 # Objective
 The goal is to create a dynamic and interactive dashboard that provides insights into the impact of
@@ -28,3 +29,6 @@ with tooltips for details.
 ○ Slicers for filtering by year, category, or region.
 ○ Dynamic visuals that respond to slicer selections.
 ○ A KPI or card to highlight key metrics (e.g., YoY change, totals).
+
+# Dashboard Interaction
+<a href="https://github.com/therealshivrajroman/DV_EXAM/blob/main/Food%20Impact%20Dashboard.jpg">View Dashboard</a>
